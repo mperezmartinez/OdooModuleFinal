@@ -15,7 +15,7 @@ Usar el comando siguiente para crear un modulo vacio llamado Open Academy e inst
 
 ###Definir un modelo###
 
-Definir un nuevo modelo de datos llamado “Course” en el módulo openacademy. Cada curso ti un título y una descripción. Es obligatorio que los cursos tengan título.
+Definir un nuevo modelo de datos llamado “Course” en el módulo openacademy. Cada curso tiene un título y una descripción. Es obligatorio que los cursos tengan título.
 Editar el archivo openacademy/models.py para incluir una clase “Course”
 
 ###Definir demonstration data###
