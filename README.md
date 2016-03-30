@@ -37,9 +37,9 @@ Definir nuevas entradas de menú para acceder a los cursos y sesiones dentro del
 
 Una vista (view) se declara como un record del módelo ir.ui.view. El tipo de vista vini indicado por el campo arch
 
-Tree views, muestran los records en una tabla.El elemento raíz es <tree>
+Tree views, muestran los records en una tabla.El elemento raíz es "tree"
 
-Forms son usados para crear y editar records.Su elemento raiz es <form>.
+Forms son usados para crear y editar records.Su elemento raiz es "form".
 
 * Creamos nuestra propia vista de los Cursos que muestra los nombres y las descripciones .
 
